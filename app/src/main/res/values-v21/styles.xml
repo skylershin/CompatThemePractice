@@ -6,14 +6,10 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorAccent">@color/colorAccent</item>
 
-
         <!-- For a Toolbar -->
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
-
-        <!-- dropShadow -->
-        <!--<item name="android:fitsSystemWindows">false</item>-->
-        <!--<item name="android:windowTranslucentStatus">true</item>-->
-        <!--<item name="windowActionBarOverlay">true</item>-->
+        <item name="android:statusBarColor">@color/colorTransparent20</item>
+        <item name="android:fitsSystemWindows">false</item>
     </style>
 </resources>
